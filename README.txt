@@ -1,21 +1,23 @@
-Il progetto è composto da 3 script python.
+The project consists of 3 python scripts.
 
 
 QLearning Cartpole:
-Il modello si addestra al momento del runtime, si può scegliere di visualizzare 
-il training nelle fasi finali attraverso la variabile RENDER_FINAL_EPOCHS
+The model trains at runtime, you can choose to display 
+the training in the final stages through the RENDER_FINAL_EPOCHS variable.
 
 
 DQN Cartpole:
-In questo script il modello è già addestrato (dqn_solver_v1), si può osservare
-in azione tramite il parametro IS_TRAINED dello script DQN_cartpole.py. Impostandolo
-a True, lo script caricherà il modello pre addestrato, a False ne addestrerà uno nuovo
+In this script the model is already trained (dqn_solver_v1), it can be observed
+in action through the IS_TRAINED parameter in the DQN_cartpole.py script. Setting it
+to True, the script will load the pre-trained model, to False it will train a new one
 
 
 A2C Breakout:
-a2c_breakout.py -> scritp per addestrare il modello
+a2c_breakout.py -> script to train the model
 
-A2C_breakout_7e6.zip -> modello addestrato
+A2C_breakout_7e6.zipper -> trained model
 
-model_demonstration.py -> script per vedere il modello in azione.
+model_demonstration.py -> script to see the model in action.
+
+Translated with DeepL.com (free version)
 
