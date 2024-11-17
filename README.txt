@@ -18,6 +18,3 @@ a2c_breakout.py -> script to train the model
 A2C_breakout_7e6.zipper -> trained model
 
 model_demonstration.py -> script to see the model in action.
-
-Translated with DeepL.com (free version)
-
